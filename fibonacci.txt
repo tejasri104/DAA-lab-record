@@ -1,0 +1,3 @@
+enter n:5
+recursive fibonacci:5
+recursive iteration :1
