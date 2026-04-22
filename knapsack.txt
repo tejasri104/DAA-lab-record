@@ -1,0 +1,7 @@
+Enter the total number of items: 4
+Enter the weight of each item:
+20 30 40 50
+Enter the profit of each item:
+10 10 10 10
+Enter the capacity of knapsack: 10
+Maximum profit = 5.000000
